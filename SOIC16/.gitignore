@@ -1,0 +1,9 @@
+*-backups
+*kicad_sch-bak
+_autosave*
+*.lck
+*.log
+\#*\#
+fp-info-cache
+production/
+
